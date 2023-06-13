@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"e:\\python\\875_div2_1831\\b.py","tests":[{"id":1686183606435,"input":"4\n1\n2\n2\n3\n1 2 3\n4 5 6\n2\n1 2\n2 1\n5\n1 2 2 2 2\n2 1 1 1 1","output":"2\n1\n2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\875_div2_1831\\b.py","group":"local","local":true}

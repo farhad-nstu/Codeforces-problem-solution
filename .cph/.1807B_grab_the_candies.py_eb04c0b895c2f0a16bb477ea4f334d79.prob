@@ -1,0 +1,1 @@
+{"name":"Local: 1807B_grab_the_candies","url":"e:\\python\\1807B_grab_the_candies.py","tests":[{"id":1679737426989,"input":"3\n4\n1 2 3 4\n4\n1 1 1 2\n3\n1 4 3","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\1807B_grab_the_candies.py","group":"local","local":true}

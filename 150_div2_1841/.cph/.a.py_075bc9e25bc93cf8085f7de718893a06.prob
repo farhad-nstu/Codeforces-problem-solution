@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\python\\150_div2_1841\\a.py","tests":[{"id":1686587453211,"input":"2\n3\n6","output":"Bob\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\150_div2_1841\\a.py","group":"local","local":true}

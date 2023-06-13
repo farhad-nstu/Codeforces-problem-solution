@@ -1,0 +1,1 @@
+{"name":"Local: A_li_hua_and_maze","url":"e:\\python\\864_1797\\A_li_hua_and_maze.py","tests":[{"id":1681082041505,"input":"3\n4 4\n2 2 3 3\n6 7\n1 1 2 3\n9 9\n5 1 3 6","output":"4\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\864_1797\\A_li_hua_and_maze.py","group":"local","local":true}

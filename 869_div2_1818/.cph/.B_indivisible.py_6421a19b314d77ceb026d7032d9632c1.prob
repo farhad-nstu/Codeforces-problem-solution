@@ -1,0 +1,1 @@
+{"name":"Local: B_indivisible","url":"e:\\python\\869_div2_1818\\B_indivisible.py","tests":[{"id":1682781196725,"input":"3\n1\n2\n3","output":"1\n2 1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\869_div2_1818\\B_indivisible.py","group":"local","local":true}

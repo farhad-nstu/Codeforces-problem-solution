@@ -1,0 +1,1 @@
+{"name":"Local: remove_two_letters","url":"e:\\python\\remove_two_letters.py","tests":[{"id":1679412058455,"input":"7\n6\naaabcc\n10\naaaaaaaaaa\n6\nabcdef\n7\nabacaba\n6\ncccfff\n4\nabba\n5\nababa","output":"4\n1\n5\n3\n3\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\remove_two_letters.py","group":"local","local":true}

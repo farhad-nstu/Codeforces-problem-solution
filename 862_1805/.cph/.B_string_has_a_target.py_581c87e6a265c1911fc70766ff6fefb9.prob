@@ -1,0 +1,1 @@
+{"name":"Local: B_string_has_a_target","url":"e:\\python\\862_1805\\B_string_has_a_target.py","tests":[{"id":1681340836623,"input":"4\n3\ncba\n4\nacac\n5\nabbcb\n4\naaba","output":"acb\naacc\nabbcb\naaab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\862_1805\\B_string_has_a_target.py","group":"local","local":true}

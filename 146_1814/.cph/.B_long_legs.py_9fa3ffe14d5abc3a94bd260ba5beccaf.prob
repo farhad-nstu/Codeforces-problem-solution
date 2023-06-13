@@ -1,0 +1,1 @@
+{"name":"Local: B_long_legs","url":"e:\\python\\146_1814\\B_long_legs.py","tests":[{"id":1680797484338,"input":"3\n1 1\n1 6\n8 4","output":"2\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\146_1814\\B_long_legs.py","group":"local","local":true}

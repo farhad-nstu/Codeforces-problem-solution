@@ -1,0 +1,1 @@
+{"name":"Local: A_politics","url":"e:\\python\\869_div2_1818\\A_politics.py","tests":[{"id":1682795371034,"input":"5\n2 2\n++\n+-\n1 3\n+-+\n4 1\n+\n-\n-\n+\n5 4\n++++\n+--+\n++-+\n+-++\n++++\n4 2\n++\n--\n--\n-+","output":"1\n1\n2\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\869_div2_1818\\A_politics.py","group":"local","local":true}

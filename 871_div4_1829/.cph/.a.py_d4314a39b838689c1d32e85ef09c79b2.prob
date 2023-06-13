@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\python\\871_div4_1829\\a.py","tests":[{"id":1685314782782,"input":"5\ncoolforsez\ncadafurcie\ncodeforces\npaiuforces\nforcescode","output":"4\n5\n0\n4\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\871_div4_1829\\a.py","group":"local","local":true}
