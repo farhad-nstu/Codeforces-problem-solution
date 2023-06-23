@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\python\\codeforces\\bs_23\\a.py","tests":[{"id":1687450256816,"input":"2\n4 50\n40 70 35 45\n3 20\n25 15 20","output":"Case 1: 60\nCase 2: 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\codeforces\\bs_23\\a.py","group":"local","local":true}

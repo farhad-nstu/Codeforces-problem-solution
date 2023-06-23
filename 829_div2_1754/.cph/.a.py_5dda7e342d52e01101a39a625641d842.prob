@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\python\\codeforces\\829_div2_1754\\a.py","tests":[{"id":1687054284570,"input":"6\n4\nQQAA\n4\nQQAQ\n3\nQAA\n1\nQ\n14\nQAQQAQAAQQQAAA\n8\nQAAQQQAA","output":"Yes\nNo\nYes\nNo\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\codeforces\\829_div2_1754\\a.py","group":"local","local":true}
