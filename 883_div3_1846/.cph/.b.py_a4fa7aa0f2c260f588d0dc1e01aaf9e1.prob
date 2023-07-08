@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"e:\\python\\codeforces\\883_div3_1846\\b.py","tests":[{"id":1688748422093,"input":"5\n+X+\nOXO\nOX.\nO+.\n+OX\nX+O\n.XO\nOX.\n+++\nO.+\nX.O\n+..\n.++\nX.O\n+..","output":"X\nO\n+\nDRAW\nDRAW"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\codeforces\\883_div3_1846\\b.py","group":"local","local":true}
