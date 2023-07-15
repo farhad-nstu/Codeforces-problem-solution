@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\python\\codeforces\\856_div2_1794\\a.py","tests":[{"id":1689399867508,"input":"5\n4\nbcd cd a d abc ab\n3\ni io i oi\n2\ng g\n3\nt al lt a\n4\nbba a ab a abb ba","output":"NO\nYES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\codeforces\\856_div2_1794\\a.py","group":"local","local":true}

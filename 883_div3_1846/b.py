@@ -2,30 +2,35 @@ t=int(input())
 while t>0:
     t-=1
     
-    s1 = input()
-    s2 = input()
-    s3 = input()
-
+    a = []
     for i in range(3):
-        if s1[i] == s2[i] and s1[i] == s3[i]:
-            c = s1[i]
-            
-    if s1[0] == s1[1] and s1[0] == s1[2]:
-        c = s1[0]
-    
-    if s2[0] == s2[1] and s2[0] == s2[2]:
-        c = s2[0]
-    
-    if s3[0] == s3[1] and s3[0] == s3[2]:
-        c = s3[0]
-        
-    if s1[0] == s2[1] and s1[0] == s3[2]:
-        c = s1[0]
-    
-    if s3[0] == s2[1] and s3[0] == s1[2]:
-        c = s3[0]
-    
-    if c == ".":
-        print("DRAW")
-    else:
+        a.append(list(map(str,input())))
+
+    c = ""
+    for i in range(3):
+        if a[0][i] != "." and a[0][i] == a[1][i] and a[0][i] == a[2][i]:
+            c = a[0][i]
+            break
+    if c:
         print(c)
+        continue
+                
+    for i in range(3):  
+        if a[i][0] != "." and a[i][0] == a[i][1] and a[i][0] == a[i][2]:
+            c = a[i][0]
+            break
+    if c:
+        print(c)
+        continue
+        
+    if a[0][0] != "." and a[0][0] == a[1][1] and a[0][0] == a[2][2]:
+        c = a[0][0]
+        print(c)
+        continue
+    
+    if a[0][2] != "." and a[0][2] == a[1][1] and a[0][2] == a[2][0]:
+        c = a[0][2]
+        print(c)
+        continue
+    
+    print("DRAW")
