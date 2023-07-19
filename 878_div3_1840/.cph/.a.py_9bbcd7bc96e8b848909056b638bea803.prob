@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\python\\codeforces\\878_div3_1840\\a.py","tests":[{"id":1689780870745,"input":"3\n8\nabacabac\n5\nqzxcq\n20\nccooddeeffoorrcceess","output":"ac\nq\ncodeforces"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python\\codeforces\\878_div3_1840\\a.py","group":"local","local":true}
