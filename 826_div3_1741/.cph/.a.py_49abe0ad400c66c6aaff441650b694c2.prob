@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"f:\\Farhad\\problem\\codeforces\\826_div3_1741\\a.py","tests":[{"id":1693689287665,"input":"6\nXXXS XS\nXXXL XL\nXL M\nXXL XXL\nXXXXXS M\nL M","output":"<\n>\n>\n=\n<\n>"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Farhad\\problem\\codeforces\\826_div3_1741\\a.py","group":"local","local":true}
