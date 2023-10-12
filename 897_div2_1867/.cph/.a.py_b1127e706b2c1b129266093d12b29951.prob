@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"f:\\Farhad\\problem\\codeforces\\897_div2_1867\\a.py","tests":[{"id":1697048391605,"input":"3\n1\n100000\n2\n1 1\n3\n10 3 3","output":"1 \n2 1 \n1 3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Farhad\\problem\\codeforces\\897_div2_1867\\a.py","group":"local","local":true}

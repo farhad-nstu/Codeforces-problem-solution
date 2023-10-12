@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"f:\\Farhad\\problem\\codeforces\\156_div2_1886\\a.py","tests":[{"id":1696863978951,"input":"4\n10\n4\n15\n9","output":"YES\n4 5 1\nNO\nYES\n2 8 5\nNO"},{"id":1696866207684,"input":"1\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Farhad\\problem\\codeforces\\156_div2_1886\\a.py","group":"local","local":true}

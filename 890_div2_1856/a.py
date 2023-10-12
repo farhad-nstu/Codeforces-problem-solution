@@ -4,13 +4,9 @@ while t>0:
 
     n=int(input())
     a=list(map(int,input().split()))
-    res = 0
+
+    maxUnsortedValue = 0
     for i in range(1, n):
-        if a[i] >= a[i-1]:
-            continue
-        tmp = a[i]
-        a[i] = max(0, a[i-1])
-        a[i-1] = tmp
-        res += 1
-    print(a)
-    print(res)
+        if a[i] < a[i-1]:
+            maxUnsortedValue = max(maxUnsortedValue, a[i-1])
+    print(maxUnsortedValue)
