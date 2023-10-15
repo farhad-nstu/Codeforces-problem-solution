@@ -3,26 +3,55 @@ t=int(input())
 while t>0:
     t-=1
     
-    n=int(input())
+    n = int(input())
     a = list(map(int,input().split()))
-    max_val = 0
-    c = {}
+    a.sort()
+
+    if a[0] != 0:
+        print("NO")
+        continue
+
+    count = {}
     for i in range(n):
-        max_val = max(max_val, a[i])
-        if a[i] not in c:
-            c[a[i]] = 1
-        else: 
-            c[a[i]] += 1
+        if a[i] not in count:
+            count[a[i]] = 1
+        else:
+            count[a[i]] += 1
+
+    # print(count)
     
-    status = False
-    max_val = max(a) 
-    for i in range(1,max_val+1):
-        if c[i-1] < c[i]:
-            status = True
-            print("NO")
+    status = True
+    for i, v in enumerate(count):
+        # print(i, v)
+        # break
+
+        if i != v:
+            status = False
             break
 
+        if (i + 1) in count and (count[i] < (count[i+1])):
+            status = False
+            break
+    
     if not status:
+        print("NO")
+    else:
         print("YES")
+
+    # # curr_val = a[0]
+    # if a[0] != 0:
+    #     print("NO")
+    #     continue
+
+    # status = True
+    # for i in range(1, n):
+    #     if a[i] > a[i-1] + 1:
+    #         status = False
+    #         break
+    
+    # if not status:
+    #     print("NO")
+    # else:
+    #     print("YES")
             
             
