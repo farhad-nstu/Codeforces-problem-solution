@@ -14,6 +14,11 @@ class Solution:
                 combs.append(comb[:])
                 return
             
+            # for j in range(i, n):
+            #     comb.append(j+1)
+            #     combinations(j+1, comb)
+            #     comb.pop()
+
             for j in range(i, n):
                 comb.append(j+1)
                 combinations(j+1, comb)

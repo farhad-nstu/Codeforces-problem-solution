@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"f:\\Farhad\\problem\\codeforces\\918_div_4_1915\\b.py","tests":[{"id":1705076332559,"input":"3\nABC\nC?B\nBCA\nBCA\nCA?\nABC\n?AB\nBCA\nABC\n","output":"A\nB\nC\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Farhad\\problem\\codeforces\\918_div_4_1915\\b.py","group":"local","local":true}
