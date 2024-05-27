@@ -1,0 +1,2 @@
+vr = "hello"
+print(vr)
